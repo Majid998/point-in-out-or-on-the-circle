@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608787780 source:c:\users\mac\documents\programs\c programs\exercise questions\exercise  questions chapter1\point on in or outside circle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
